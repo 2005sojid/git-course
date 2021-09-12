@@ -1,2 +1,2 @@
-# Git and Github Couse
-Crash couse for Git
+# Git and Github Course
+Crash course for Git
